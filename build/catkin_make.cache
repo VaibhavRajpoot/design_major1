@@ -1,0 +1,2 @@
+design
+-DCATKIN_DEVEL_PREFIX=/home/vaibhav/Desktop/robo/devel -DCMAKE_INSTALL_PREFIX=/home/vaibhav/Desktop/robo/install -G Unix Makefiles

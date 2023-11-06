@@ -1,0 +1,8 @@
+prefix=/home/vaibhav/Desktop/robo/install
+
+Name: design
+Description: Description of design
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
